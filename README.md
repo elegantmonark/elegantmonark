@@ -42,15 +42,14 @@ My work sits around the overlap of physics, computation, engineering tools, and 
 
 **Backend and tooling:** FastAPI | APIs | automation scripts | developer tools
 
-## GitHub Overview
+## Engineering Focus
 
-<div align="center">
-
-![Trishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elegantmonark&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elegantmonark&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+| Area | What I build |
+| --- | --- |
+| Quantum computing | Circuit simulators, fidelity experiments, and quantum workflow tooling |
+| Physics simulation | Visual tools for mathematical and physical systems |
+| Hardware software | Arduino, Raspberry Pi, embedded experiments, and Linux-based project environments |
+| AI-assisted tooling | Developer utilities, research workflows, and automation systems |
 
 ## Links
 
