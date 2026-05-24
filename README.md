@@ -62,12 +62,20 @@ My work tends to sit where theory needs an interface: circuit simulators, physic
 | AI-assisted tooling | Developer utilities, research workflows, and automation systems |
 | 3D interfaces | Interactive visualisers that make technical systems easier to inspect |
 
+## Selected Repositories
+
+| Repo | Why it is here |
+| --- | --- |
+| [wall-f](https://github.com/elegantmonark/wall-f) | Competition robotics project with embedded control, vision, and final report documentation |
+| [striking-lab](https://github.com/elegantmonark/striking-lab) | Interactive 3D web app with FBX animation playback |
+| [quantum-circuit-sim](https://github.com/elegantmonark/quantum-circuit-sim) | Quantum simulation tooling and UI work |
+
 ## GitHub Snapshot
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=elegantmonark&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats">
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elegantmonark&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elegantmonark&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/elegantmonark)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elegantmonark&layout=compact&theme=github_dark&hide_border=true)](https://github.com/elegantmonark)
 
 </div>
 
