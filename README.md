@@ -23,20 +23,25 @@ My main direction is quantum computing and quantum-adjacent systems, with AI/QML
 | Project | What it is | Stack / Focus |
 | --- | --- | --- |
 | [WALL-F Waste Sorting Robot](https://github.com/elegantmonark/wall-f) | Autonomous DESN1000 ELEC waste-sorting robot. Placed **2nd out of 30 teams**, scoring **16 correct RGB deposits in 10 minutes** and earning a High Distinction. | Arduino, PixyCam, embedded control, robotics |
-| [Brahmanda](https://github.com/elegantmonark/brahmanda) | Interactive universe simulator blending cosmology, quantum fields, collider-style events, entropy flow, and audio-reactive geometry. | JavaScript, Canvas, WebAudio, physics simulation |
 | [Quantum Circuit Sim](https://github.com/elegantmonark/quantum-circuit-sim) | Browser-accessible quantum circuit simulation and visualisation. | Python, Flask, quantum computing, simulation UI |
 | [Particle Collider Visualiser](https://github.com/elegantmonark/particle-collider-visualiser) | 3D particle-collision event display with selectable Standard Model-inspired event generation. | Python, FastAPI, Three.js, particle physics |
-| [MMA Lab 3D](https://github.com/elegantmonark/mma-lab) | Interactive 3D combat-sport combo visualiser with FBX/Mixamo animation playback. | React, Three.js, Vite, 3D animation |
 | [VPN From Scratch](https://github.com/elegantmonark/vpn-from-scratch) | Educational VPN prototype exploring encrypted transport, packet routing, and TUN-style networking. | Python, networking, cryptography, systems |
+
+## Other Public Builds
+
+| Project | Why it is here |
+| --- | --- |
+| [Brahmanda](https://github.com/elegantmonark/brahmanda) | Interactive universe simulator blending cosmology, quantum fields, collider-style events, entropy flow, and audio-reactive geometry. |
+| [MMA Lab 3D](https://github.com/elegantmonark/mma-lab) | 3D interaction and animation experiment using FBX/Mixamo motion assets. |
 
 ## Live Demos
 
 | Project | Demo |
 | --- | --- |
-| Brahmanda | [brahmanda.netlify.app](https://brahmanda.netlify.app/) |
-| MMA Lab 3D | [mma-lab.netlify.app](https://mma-lab.netlify.app/) |
 | Quantum Circuit Sim | [quantum-circuit-sim.onrender.com](https://quantum-circuit-sim.onrender.com/) |
 | Particle Collider Visualiser | [particle-collider-visualiser.onrender.com](https://particle-collider-visualiser.onrender.com/) |
+| Brahmanda | [brahmanda.netlify.app](https://brahmanda.netlify.app/) |
+| MMA Lab 3D | [mma-lab.netlify.app](https://mma-lab.netlify.app/) |
 
 ## Current Direction
 
