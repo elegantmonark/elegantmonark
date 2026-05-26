@@ -2,9 +2,9 @@
 
 # Trishan Biswas
 
-**Engineering, simulation, hardware, and scientific software.**
+**Quantum computing, AI/QML, scientific tooling, physics simulation, and hardware-aware systems.**
 
-Quantum systems | Robotics | Physics visualisation | Embedded control | Developer tools
+Quantum computing | QML | Particle physics | Scientific interfaces | Microcontrollers | Linux systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trishan%20Biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishan-biswas/)
 [![GitHub](https://img.shields.io/badge/GitHub-elegantmonark-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elegantmonark)
@@ -14,9 +14,9 @@ Quantum systems | Robotics | Physics visualisation | Embedded control | Develope
 
 ---
 
-I build projects where physical systems need an interface: robotics, quantum tooling, particle visualisation, browser simulations, and local engineering utilities.
+I build projects where quantum systems, physical models, and real hardware need usable interfaces: circuit simulators, particle visualisers, browser-based scientific tools, microcontroller projects, and hardware-aware software.
 
-My strongest work sits around making technical systems visible, interactive, and testable.
+My main direction is quantum computing and quantum-adjacent systems, with AI/QML, physics simulation, and embedded hardware as closely connected parts of the same stack.
 
 ## Featured Work
 
@@ -40,8 +40,9 @@ My strongest work sits around making technical systems visible, interactive, and
 
 ## Current Direction
 
-- Building public projects around robotics, physics simulation, quantum tooling, and scientific visualisation.
-- Keeping selected research/commercial prototypes private while they mature.
+- Building public projects around quantum computing, AI/QML, particle physics, scientific visualisation, and hardware-aware systems.
+- Developing private research/commercial prototypes around QRNG, signal systems, and engineering automation while they mature.
+- Moving toward deeper quantum software, QPU-control ideas, quantum kernels, and hardware-connected scientific tooling.
 - Turning useful experiments into clean, documented repos with demos, screenshots, and reproducible setup.
 
 ## Technical Stack
@@ -49,15 +50,21 @@ My strongest work sits around making technical systems visible, interactive, and
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -65,10 +72,11 @@ My strongest work sits around making technical systems visible, interactive, and
 
 | Area | What I build |
 | --- | --- |
-| Robotics and embedded systems | Sensor-driven control, actuation, calibration, and physical testing |
-| Quantum computing | Circuit simulators, fidelity experiments, and quantum workflow tooling |
-| Physics simulation | Visual tools for mathematical and physical systems |
-| Scientific interfaces | Browser and desktop tools that make technical systems easier to inspect |
+| Quantum computing | Circuit simulators, fidelity experiments, quantum workflow tooling, and QPU-control ideas |
+| AI / QML | Hybrid classical-quantum models, quantum kernels, and AI-assisted scientific workflows |
+| Physics simulation | Particle events, cosmology-inspired systems, mathematical visualisation, and field models |
+| Scientific tooling | Interfaces that make technical systems easier to inspect, test, and explain |
+| Hardware-aware systems | Microcontrollers, sensors, motor control, calibration, Raspberry Pi, ESP32, and Linux-connected hardware |
 | Security and networking | Educational systems projects around transport, encryption, and local networking |
 
 ## GitHub Snapshot
