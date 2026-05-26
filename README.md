@@ -35,6 +35,8 @@ My strongest work sits around making technical systems visible, interactive, and
 | --- | --- |
 | Brahmanda | [brahmanda.netlify.app](https://brahmanda.netlify.app/) |
 | MMA Lab 3D | [mma-lab.netlify.app](https://mma-lab.netlify.app/) |
+| Quantum Circuit Sim | [quantum-circuit-sim.onrender.com](https://quantum-circuit-sim.onrender.com/) |
+| Particle Collider Visualiser | [particle-collider-visualiser.onrender.com](https://particle-collider-visualiser.onrender.com/) |
 
 ## Current Direction
 
