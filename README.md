@@ -2,9 +2,9 @@
 
 # Trishan Biswas
 
-**Quantum computing, AI/QML, scientific tooling, physics simulation, and hardware-aware systems.**
+**Quantum computing, QPU-runtime ideas, AI/QML, scientific tooling, and hardware-aware systems.**
 
-Quantum computing | QML | Particle physics | Scientific interfaces | Microcontrollers | Linux systems
+Quantum systems | QML | QPU control | Scientific interfaces | Microcontrollers | Linux/OS internals
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trishan%20Biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishan-biswas/)
 [![GitHub](https://img.shields.io/badge/GitHub-elegantmonark-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elegantmonark)
@@ -14,9 +14,9 @@ Quantum computing | QML | Particle physics | Scientific interfaces | Microcontro
 
 ---
 
-I build projects where quantum systems, physical models, and real hardware need usable interfaces: circuit simulators, particle visualisers, browser-based scientific tools, microcontroller projects, and hardware-aware software.
+I build projects where quantum systems, physical models, networking, and real hardware need usable interfaces: circuit simulators, particle visualisers, browser-based scientific tools, microcontroller projects, and systems software.
 
-My main direction is quantum computing and quantum-adjacent systems, with AI/QML, physics simulation, and embedded hardware as closely connected parts of the same stack.
+My main direction is quantum computing and quantum-adjacent systems, with AI/QML, physics simulation, embedded control, and OS/networking ideas as connected parts of the same stack.
 
 ## Featured Work
 
@@ -26,6 +26,14 @@ My main direction is quantum computing and quantum-adjacent systems, with AI/QML
 | [Quantum Circuit Sim](https://github.com/elegantmonark/quantum-circuit-sim) | Browser-accessible quantum circuit simulation and visualisation. | Python, Flask, quantum computing, simulation UI |
 | [Particle Collider Visualiser](https://github.com/elegantmonark/particle-collider-visualiser) | 3D particle-collision event display with selectable Standard Model-inspired event generation. | Python, FastAPI, Three.js, particle physics |
 | [VPN From Scratch](https://github.com/elegantmonark/vpn-from-scratch) | Educational VPN prototype exploring encrypted transport, packet routing, and TUN-style networking. | Python, networking, cryptography, systems |
+
+## Active Direction
+
+| Project / Track | Direction |
+| --- | --- |
+| AstraQPU | QPU architecture virtualisation, quantum runtime design, hardware abstraction, scheduling, and microcontroller-backed control-plane experiments |
+| Quantum systems software | Moving beyond circuit demos toward tools that model how quantum processors could be controlled, debugged, scheduled, and virtualised |
+| OS / networking contributions | Building confidence around kernel-adjacent systems work through focused contributions such as virtio-net foundations for RISC-V/QEMU kernels |
 
 ## Other Public Builds
 
@@ -47,7 +55,8 @@ My main direction is quantum computing and quantum-adjacent systems, with AI/QML
 
 - Building public projects around quantum computing, AI/QML, particle physics, scientific visualisation, and hardware-aware systems.
 - Developing private research/commercial prototypes around QRNG, signal systems, and engineering automation while they mature.
-- Moving toward deeper quantum software, QPU-control ideas, quantum kernels, and hardware-connected scientific tooling.
+- Moving toward deeper quantum software, QPU-control ideas, quantum kernels, QPU-runtime architecture, and hardware-connected scientific tooling.
+- Exploring OS/networking internals where they connect to hardware abstraction, device control, and scientific systems infrastructure.
 - Turning useful experiments into clean, documented repos with demos, screenshots, and reproducible setup.
 
 ## Technical Stack
@@ -77,12 +86,12 @@ My main direction is quantum computing and quantum-adjacent systems, with AI/QML
 
 | Area | What I build |
 | --- | --- |
-| Quantum computing | Circuit simulators, fidelity experiments, quantum workflow tooling, and QPU-control ideas |
+| Quantum computing | Circuit simulators, fidelity experiments, quantum workflow tooling, QPU-runtime ideas, and hardware-aware quantum control |
 | AI / QML | Hybrid classical-quantum models, quantum kernels, and AI-assisted scientific workflows |
 | Physics simulation | Particle events, cosmology-inspired systems, mathematical visualisation, and field models |
 | Scientific tooling | Interfaces that make technical systems easier to inspect, test, and explain |
 | Hardware-aware systems | Microcontrollers, sensors, motor control, calibration, Raspberry Pi, ESP32, and Linux-connected hardware |
-| Security and networking | Educational systems projects around transport, encryption, and local networking |
+| OS and networking | Educational systems projects around transport, encryption, virtual devices, RISC-V/QEMU, and network interfaces |
 
 ## GitHub Snapshot
 
