@@ -2,12 +2,13 @@
 
 # Trishan Biswas
 
-**Quantum Engineering student building across quantum computing, AI/QML, electronics, embedded systems, CAD, physical prototyping and scientific software.**
+**Quantum Engineering student building across quantum computing, QPUs and QPU runtimes, AI/QML, electronics, embedded systems, CAD, physical prototyping and scientific software.**
 
-Quantum computing | Qiskit | AI/QML | Circuit and PCB design | Embedded telemetry | CAD and 3D printing
+Quantum computing | Qiskit | QPU runtimes | Quantum control | AI/QML | Circuit and PCB design | Embedded telemetry | CAD and 3D printing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trishan%20Biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishan-biswas/)
 [![GitHub](https://img.shields.io/badge/GitHub-elegantmonark-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elegantmonark)
+![Profile views](https://komarev.com/ghpvc/?username=elegantmonark&label=Profile%20views&color=6f42c1&style=flat-square)
 
 </div>
 
@@ -23,9 +24,9 @@ My strongest interests sit where software meets physical systems. I work with mi
 
 | Project | What I built | Engineering areas |
 | --- | --- | --- |
-| [Stratologger](https://github.com/elegantmonark/stratologger) | An ESP32 environmental and inertial telemetry payload with microSD logging, a 320 by 240 mission-control display, fault reporting, documented electrical architecture and a parametric enclosure. Firmware and repository checks pass; physical bring-up and validation are the next stage. | ESP32, C++, sensors, I2C/SPI, telemetry, circuit design, CAD |
 | [Hardware QRNG and Entropy Source](https://github.com/elegantmonark/hardware-qrng) | An experimental green-LED and LM358 physical entropy-source investigation covering analogue circuit revisions, Arduino acquisition, preserved datasets, statistical audits, Python analysis and a printed enclosure sized for a future perfboard build. | Analogue electronics, Arduino, breadboarding, perfboard, Python, statistics, CAD |
 | [WALL-F Waste Sorting Robot](https://github.com/elegantmonark/wall-f) | An autonomous DESN1000 ELEC waste-sorting robot that placed **2nd out of 30 teams**, completed **16 correct RGB deposits in 10 minutes**, and earned a High Distinction. | Arduino, PixyCam, sensors, motor control, calibration, robotics |
+| [Stratologger](https://github.com/elegantmonark/stratologger) | An ESP32 environmental and inertial telemetry payload with microSD logging, a 320 by 240 mission-control display, fault reporting, documented electrical architecture and a parametric enclosure. Firmware and repository checks pass; physical bring-up and validation are the next stage. | ESP32, C++, sensors, I2C/SPI, telemetry, circuit design, CAD |
 
 ## Scientific software
 
@@ -34,6 +35,8 @@ My strongest interests sit where software meets physical systems. I work with mi
 | [Quantum Circuit Sim](https://github.com/elegantmonark/quantum-circuit-sim) | Browser-accessible quantum circuit simulation and visualisation using Python and Flask. |
 | [Particle Collider Visualiser](https://github.com/elegantmonark/particle-collider-visualiser) | Interactive 3D particle-collision event display using FastAPI and Three.js. |
 | [Brahmanda](https://github.com/elegantmonark/brahmanda) | Interactive universe visualisation combining cosmology, field-inspired behaviour, particle events, entropy flow and audio-reactive geometry. |
+| [VPN From Scratch](https://github.com/elegantmonark/vpn-from-scratch) | Educational systems project exploring encrypted transport, packet routing and virtual network interfaces. |
+| [MMA Lab 3D](https://github.com/elegantmonark/mma-lab) | Interactive 3D movement and animation experiment using web graphics and motion assets. |
 
 ## Long-term builds
 
@@ -49,7 +52,7 @@ My strongest interests sit where software meets physical systems. I work with mi
 | **PCB design** | Translating prototypes into organised schematics and PCB layouts, with attention to connectors, power, test points and physical constraints |
 | **Embedded systems** | Arduino and ESP32 firmware, sensor integration, I2C and SPI buses, telemetry, data logging, displays and status/fault systems |
 | **Mechanical design** | Parametric CAD, electronics enclosures, mechanism design, fit checks, FDM prototyping and design iteration |
-| **Quantum and physics** | Quantum circuits, entropy-source investigation, semiconductor and electromagnetic concepts, numerical analysis and scientific visualisation |
+| **Quantum and physics** | Quantum circuits, Qiskit workflows, QPU architecture and runtime concepts, quantum control, entropy-source investigation, semiconductor physics and scientific visualisation |
 | **Software and data** | C, C++, Python, JavaScript, data acquisition, validation tools, APIs, interactive interfaces and reproducible analysis |
 
 ## Current work
