@@ -4,7 +4,7 @@
 
 **Quantum Engineering student building across quantum computing, QPUs and QPU runtimes, AI/QML, electronics, embedded systems, CAD, physical prototyping and scientific software.**
 
-Quantum computing | Qiskit | QPU runtimes | Quantum control | AI/QML | Circuit and PCB design | Embedded telemetry | CAD and 3D printing
+Quantum computing | Qiskit | QPU runtimes | Quantum control | AI/QML | Circuit and PCB design | Embedded systems | CAD and 3D printing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trishan%20Biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishan-biswas/)
 [![GitHub](https://img.shields.io/badge/GitHub-elegantmonark-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elegantmonark)
