@@ -8,7 +8,7 @@ Quantum computing | Qiskit | QPU runtimes | Quantum control | AI/QML | Circuit a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trishan%20Biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishan-biswas/)
 [![GitHub](https://img.shields.io/badge/GitHub-elegantmonark-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elegantmonark)
-![Profile views](https://komarev.com/ghpvc/?username=elegantmonark&label=Profile%20views&color=6f42c1&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=elegantmonark&label=Profile+views&color=6f42c1&style=flat-square&abbreviated=true)
 
 </div>
 
