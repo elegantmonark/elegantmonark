@@ -2,9 +2,9 @@
 
 # Trishan Biswas
 
-**Quantum computing, QPU-runtime ideas, AI/QML, scientific tooling, and hardware-aware systems.**
+**Quantum engineering, embedded systems, scientific software, and hardware-aware computing.**
 
-Quantum systems | QML | QPU control | Scientific interfaces | Microcontrollers | Linux/OS internals
+Quantum systems | Embedded telemetry | Scientific interfaces | Electronics | Microcontrollers | Linux/OS internals
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trishan%20Biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishan-biswas/)
 [![GitHub](https://img.shields.io/badge/GitHub-elegantmonark-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elegantmonark)
@@ -23,6 +23,8 @@ My main direction is quantum computing and quantum-adjacent systems, with AI/QML
 | Project | What it is | Stack / Focus |
 | --- | --- | --- |
 | [WALL-F Waste Sorting Robot](https://github.com/elegantmonark/wall-f) | Autonomous DESN1000 ELEC waste-sorting robot. Placed **2nd out of 30 teams**, scoring **16 correct RGB deposits in 10 minutes** and earning a High Distinction. | Arduino, PixyCam, embedded control, robotics |
+| [Stratologger](https://github.com/elegantmonark/stratologger) | ESP32 telemetry payload in development, with modular firmware for environmental and inertial sensing, microSD logging, a mission-control display, fault reporting, and a parametric enclosure. Hardware validation is the next stage. | ESP32, C++, PlatformIO, I2C/SPI sensors, telemetry, CAD |
+| [Hardware QRNG and Entropy Source](https://github.com/elegantmonark/hardware-qrng) | Experimental green-LED and LM358 physical entropy-source investigation with Arduino acquisition, preserved datasets, statistical audits, documented circuit revisions, and enclosure development. | Analogue electronics, Arduino, Python, statistics, CAD |
 | [Quantum Circuit Sim](https://github.com/elegantmonark/quantum-circuit-sim) | Browser-accessible quantum circuit simulation and visualisation. | Python, Flask, quantum computing, simulation UI |
 | [Particle Collider Visualiser](https://github.com/elegantmonark/particle-collider-visualiser) | 3D particle-collision event display with selectable Standard Model-inspired event generation. | Python, FastAPI, Three.js, particle physics |
 | [VPN From Scratch](https://github.com/elegantmonark/vpn-from-scratch) | Educational VPN prototype exploring encrypted transport, packet routing, and TUN-style networking. | Python, networking, cryptography, systems |
@@ -54,7 +56,7 @@ My main direction is quantum computing and quantum-adjacent systems, with AI/QML
 ## Current Direction
 
 - Building public projects around quantum computing, AI/QML, particle physics, scientific visualisation, and hardware-aware systems.
-- Developing private research/commercial prototypes around QRNG, signal systems, and engineering automation while they mature.
+- Developing public experimental hardware around entropy sources, embedded telemetry, signal acquisition, and engineering validation.
 - Moving toward deeper quantum software, QPU-control ideas, quantum kernels, QPU-runtime architecture, and hardware-connected scientific tooling.
 - Exploring OS/networking internals where they connect to hardware abstraction, device control, and scientific systems infrastructure.
 - Turning useful experiments into clean, documented repos with demos, screenshots, and reproducible setup.
