@@ -2,9 +2,9 @@
 
 # Trishan Biswas
 
-**Quantum Engineering student building across electronics, embedded systems, CAD, physical prototyping and scientific software.**
+**Quantum Engineering student building across quantum computing, AI/QML, electronics, embedded systems, CAD, physical prototyping and scientific software.**
 
-Quantum engineering | Circuit and PCB design | Embedded telemetry | CAD and 3D printing | Scientific computing
+Quantum computing | Qiskit | AI/QML | Circuit and PCB design | Embedded telemetry | CAD and 3D printing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trishan%20Biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishan-biswas/)
 [![GitHub](https://img.shields.io/badge/GitHub-elegantmonark-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elegantmonark)
@@ -34,6 +34,12 @@ My strongest interests sit where software meets physical systems. I work with mi
 | [Quantum Circuit Sim](https://github.com/elegantmonark/quantum-circuit-sim) | Browser-accessible quantum circuit simulation and visualisation using Python and Flask. |
 | [Particle Collider Visualiser](https://github.com/elegantmonark/particle-collider-visualiser) | Interactive 3D particle-collision event display using FastAPI and Three.js. |
 | [Brahmanda](https://github.com/elegantmonark/brahmanda) | Interactive universe visualisation combining cosmology, field-inspired behaviour, particle events, entropy flow and audio-reactive geometry. |
+
+## Long-term builds
+
+| Project | Direction |
+| --- | --- |
+| [AstraQPU](https://github.com/elegantmonark/astraqpu) | A long-term virtual QPU runtime exploring architecture-aware scheduling, control and hardware-in-the-loop execution. |
 
 ## Engineering capabilities
 
