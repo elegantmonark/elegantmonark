@@ -2,49 +2,79 @@
 
 # Trishan Biswas
 
-**Quantum engineering, embedded systems, scientific software, and hardware-aware computing.**
+**Quantum Engineering student building across electronics, embedded systems, CAD, physical prototyping and scientific software.**
 
-Quantum systems | Embedded telemetry | Scientific interfaces | Electronics | Microcontrollers | Linux/OS internals
+Quantum engineering | Circuit and PCB design | Embedded telemetry | CAD and 3D printing | Scientific computing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trishan%20Biswas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishan-biswas/)
 [![GitHub](https://img.shields.io/badge/GitHub-elegantmonark-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elegantmonark)
-[![Profile Views](https://komarev.com/ghpvc/?username=elegantmonark&style=flat-square&color=blueviolet)](https://github.com/elegantmonark)
 
 </div>
 
 ---
 
-I build projects where quantum systems, physical models, networking, and real hardware need usable interfaces: circuit simulators, particle visualisers, browser-based scientific tools, microcontroller projects, and systems software.
+## About me
 
-My main direction is quantum computing and quantum-adjacent systems, with AI/QML, physics simulation, embedded control, and OS/networking ideas as connected parts of the same stack.
+I study **Quantum Engineering at UNSW Sydney** and enjoy taking projects through the complete engineering process: understanding the physics, designing the circuit, writing the firmware, building the hardware, creating the enclosure, and testing the resulting data.
 
-## Featured Work
+My strongest interests sit where software meets physical systems. I work with microcontrollers and sensors, analogue and digital circuits, soldered and perfboard prototypes, PCB design, parametric CAD, 3D printing, data analysis, and scientific visualisation.
 
-| Project | What it is | Stack / Focus |
+## Featured engineering builds
+
+| Project | What I built | Engineering areas |
 | --- | --- | --- |
-| [WALL-F Waste Sorting Robot](https://github.com/elegantmonark/wall-f) | Autonomous DESN1000 ELEC waste-sorting robot. Placed **2nd out of 30 teams**, scoring **16 correct RGB deposits in 10 minutes** and earning a High Distinction. | Arduino, PixyCam, embedded control, robotics |
-| [Stratologger](https://github.com/elegantmonark/stratologger) | ESP32 telemetry payload in development, with modular firmware for environmental and inertial sensing, microSD logging, a mission-control display, fault reporting, and a parametric enclosure. Hardware validation is the next stage. | ESP32, C++, PlatformIO, I2C/SPI sensors, telemetry, CAD |
-| [Hardware QRNG and Entropy Source](https://github.com/elegantmonark/hardware-qrng) | Experimental green-LED and LM358 physical entropy-source investigation with Arduino acquisition, preserved datasets, statistical audits, documented circuit revisions, and enclosure development. | Analogue electronics, Arduino, Python, statistics, CAD |
-| [Quantum Circuit Sim](https://github.com/elegantmonark/quantum-circuit-sim) | Browser-accessible quantum circuit simulation and visualisation. | Python, Flask, quantum computing, simulation UI |
-| [Particle Collider Visualiser](https://github.com/elegantmonark/particle-collider-visualiser) | 3D particle-collision event display with selectable Standard Model-inspired event generation. | Python, FastAPI, Three.js, particle physics |
-| [VPN From Scratch](https://github.com/elegantmonark/vpn-from-scratch) | Educational VPN prototype exploring encrypted transport, packet routing, and TUN-style networking. | Python, networking, cryptography, systems |
+| [Stratologger](https://github.com/elegantmonark/stratologger) | An ESP32 environmental and inertial telemetry payload with microSD logging, a 320 by 240 mission-control display, fault reporting, documented electrical architecture and a parametric enclosure. Firmware and repository checks pass; physical bring-up and validation are the next stage. | ESP32, C++, sensors, I2C/SPI, telemetry, circuit design, CAD |
+| [Hardware QRNG and Entropy Source](https://github.com/elegantmonark/hardware-qrng) | An experimental green-LED and LM358 physical entropy-source investigation covering analogue circuit revisions, Arduino acquisition, preserved datasets, statistical audits, Python analysis and a printed enclosure sized for a future perfboard build. | Analogue electronics, Arduino, breadboarding, perfboard, Python, statistics, CAD |
+| [WALL-F Waste Sorting Robot](https://github.com/elegantmonark/wall-f) | An autonomous DESN1000 ELEC waste-sorting robot that placed **2nd out of 30 teams**, completed **16 correct RGB deposits in 10 minutes**, and earned a High Distinction. | Arduino, PixyCam, sensors, motor control, calibration, robotics |
 
-## Active Direction
+## Scientific software
 
-| Project / Track | Direction |
+| Project | Focus |
 | --- | --- |
-| AstraQPU | QPU architecture virtualisation, quantum runtime design, hardware abstraction, scheduling, and microcontroller-backed control-plane experiments |
-| Quantum systems software | Moving beyond circuit demos toward tools that model how quantum processors could be controlled, debugged, scheduled, and virtualised |
-| OS / networking contributions | Building confidence around kernel-adjacent systems work through focused contributions such as virtio-net foundations for RISC-V/QEMU kernels |
+| [Quantum Circuit Sim](https://github.com/elegantmonark/quantum-circuit-sim) | Browser-accessible quantum circuit simulation and visualisation using Python and Flask. |
+| [Particle Collider Visualiser](https://github.com/elegantmonark/particle-collider-visualiser) | Interactive 3D particle-collision event display using FastAPI and Three.js. |
+| [Brahmanda](https://github.com/elegantmonark/brahmanda) | Interactive universe visualisation combining cosmology, field-inspired behaviour, particle events, entropy flow and audio-reactive geometry. |
 
-## Other Public Builds
+## Engineering capabilities
 
-| Project | Why it is here |
+| Area | Experience |
 | --- | --- |
-| [Brahmanda](https://github.com/elegantmonark/brahmanda) | Interactive universe simulator blending cosmology, quantum fields, collider-style events, entropy flow, and audio-reactive geometry. |
-| [MMA Lab 3D](https://github.com/elegantmonark/mma-lab) | 3D interaction and animation experiment using FBX/Mixamo motion assets. |
+| **Electronics** | Analogue and digital circuit design, component integration, breadboarding, perfboarding, soldering, debugging and electrical bring-up |
+| **PCB design** | Translating prototypes into organised schematics and PCB layouts, with attention to connectors, power, test points and physical constraints |
+| **Embedded systems** | Arduino and ESP32 firmware, sensor integration, I2C and SPI buses, telemetry, data logging, displays and status/fault systems |
+| **Mechanical design** | Parametric CAD, electronics enclosures, mechanism design, fit checks, FDM prototyping and design iteration |
+| **Quantum and physics** | Quantum circuits, entropy-source investigation, semiconductor and electromagnetic concepts, numerical analysis and scientific visualisation |
+| **Software and data** | C, C++, Python, JavaScript, data acquisition, validation tools, APIs, interactive interfaces and reproducible analysis |
 
-## Live Demos
+## Current work
+
+- Bringing Stratologger from documented firmware and electrical design into physical assembly, sensor testing and validated telemetry captures.
+- Continuing the QRNG investigation through a simpler analogue revision before transferring a verified design to perfboard and its printed enclosure.
+- Developing stronger PCB, soldering, CAD and system-integration skills through complete software-to-hardware builds.
+- Building scientific tools that make quantum, physics and engineering systems easier to inspect and understand.
+
+## Toolkit
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</div>
+
+**Hands-on:** circuit design | PCB design | soldering | breadboard and perfboard construction | sensor integration | CAD | 3D printing | hardware debugging
+
+## Live demos
 
 | Project | Demo |
 | --- | --- |
@@ -53,59 +83,6 @@ My main direction is quantum computing and quantum-adjacent systems, with AI/QML
 | Brahmanda | [brahmanda.netlify.app](https://brahmanda.netlify.app/) |
 | MMA Lab 3D | [mma-lab.netlify.app](https://mma-lab.netlify.app/) |
 
-## Current Direction
-
-- Building public projects around quantum computing, AI/QML, particle physics, scientific visualisation, and hardware-aware systems.
-- Developing public experimental hardware around entropy sources, embedded telemetry, signal acquisition, and engineering validation.
-- Moving toward deeper quantum software, QPU-control ideas, quantum kernels, QPU-runtime architecture, and hardware-connected scientific tooling.
-- Exploring OS/networking internals where they connect to hardware abstraction, device control, and scientific systems infrastructure.
-- Turning useful experiments into clean, documented repos with demos, screenshots, and reproducible setup.
-
-## Technical Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-</div>
-
-## Engineering Focus
-
-| Area | What I build |
-| --- | --- |
-| Quantum computing | Circuit simulators, fidelity experiments, quantum workflow tooling, QPU-runtime ideas, and hardware-aware quantum control |
-| AI / QML | Hybrid classical-quantum models, quantum kernels, and AI-assisted scientific workflows |
-| Physics simulation | Particle events, cosmology-inspired systems, mathematical visualisation, and field models |
-| Scientific tooling | Interfaces that make technical systems easier to inspect, test, and explain |
-| Hardware-aware systems | Microcontrollers, sensors, motor control, calibration, Raspberry Pi, ESP32, and Linux-connected hardware |
-| OS and networking | Educational systems projects around transport, encryption, virtual devices, RISC-V/QEMU, and network interfaces |
-
-## GitHub Snapshot
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elegantmonark&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elegantmonark&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elegantmonark&theme=github_dark)
-
-</div>
-
-## Links
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/trishan-biswas/) | [GitHub](https://github.com/elegantmonark) | trishan.biswas.nexus [at] gmail [dot] com
